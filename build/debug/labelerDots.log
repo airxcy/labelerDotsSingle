@@ -1,0 +1,67 @@
+﻿  MOC ..\includes\Qts\mainwindow.h
+  MOC ..\includes\Qts\streamthread.h
+  MOC ..\includes\Qts\viewqt.h
+  UIC ..\mainwindow.ui
+  RCC ..\resources.qrc
+  buffers.cpp
+  main.cpp
+  mainwindow.cpp
+..\src\Qts\mainwindow.cpp(169): warning C4100: 'event' : unreferenced formal parameter
+..\src\Qts\mainwindow.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\mainwindow.cpp(320): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+  modelsqt.cpp
+..\src\Qts\modelsqt.cpp(37): warning C4100: 'widget' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(37): warning C4100: 'option' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(73): warning C4100: 'widget' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(73): warning C4100: 'option' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(158): warning C4100: 'widget' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(158): warning C4100: 'option' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(263): warning C4100: 'widget' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(263): warning C4100: 'option' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(358): warning C4100: 'widget' : unreferenced formal parameter
+..\src\Qts\modelsqt.cpp(358): warning C4100: 'option' : unreferenced formal parameter
+  streamthread.cpp
+..\src\Qts\streamthread.cpp(108): warning C4189: 'bb_i' : local variable is initialized but not referenced
+..\src\Qts\streamthread.cpp(144): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(854) : see declaration of '_splitpath'
+..\src\Qts\streamthread.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+..\src\Qts\streamthread.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+..\src\Qts\streamthread.cpp(207): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\streamthread.cpp(197): warning C4100: 'dir' : unreferenced formal parameter
+..\src\Qts\streamthread.cpp(237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\streamthread.cpp(260): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\streamthread.cpp(248): warning C4101: 'fidx' : unreferenced local variable
+..\src\Qts\streamthread.cpp(248): warning C4101: 'y' : unreferenced local variable
+..\src\Qts\streamthread.cpp(248): warning C4101: 'x' : unreferenced local variable
+..\src\Qts\streamthread.cpp(290): warning C4101: 'fidx' : unreferenced local variable
+..\src\Qts\streamthread.cpp(290): warning C4101: 'y' : unreferenced local variable
+..\src\Qts\streamthread.cpp(290): warning C4101: 'x' : unreferenced local variable
+  viewqt.cpp
+..\src\Qts\viewqt.cpp(16): warning C4100: 'evt' : unreferenced formal parameter
+..\src\Qts\viewqt.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\viewqt.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+..\src\Qts\viewqt.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+..\src\Qts\viewqt.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\viewqt.cpp(155): warning C4100: 'bbidx' : unreferenced formal parameter
+..\src\Qts\viewqt.cpp(172): warning C4018: '<' : signed/unsigned mismatch
+..\src\Qts\viewqt.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\viewqt.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\viewqt.cpp(214): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+..\src\Qts\viewqt.cpp(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+  moc_mainwindow.cpp
+  moc_streamthread.cpp
+  moc_viewqt.cpp
+  qrc_resources.cpp
+  Generating Code...
+  labelerDots.vcxproj -> C:\Users\xcy\Documents\GitHub\labelerDotsSingle\build\debug\labelerDots.exe
